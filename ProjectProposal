@@ -1,9 +1,0 @@
-Project Proposal
-Idea:
-An IoT Poke ball for Pokémon trainers
-
-Description:
-With the popular games Pokemon Go on mobile devices and Pokemon Let’s Go on Switch, there are additional items such as Pokemon Go Plus and Poke Ball Plus released officially by Nintendo, and also other unofficial accessories launched by other toy/game companies, to enhance users’ gaming experience while exploring the world through new technologies. But none of them really replicate the plots of carrying Pokemon in Poke balls in the animation and bring it to life. In this project, I want to combine the two by reading data from the game through internet, and transferring the data to a physical Poke ball. Once you’ve caught a Pokemon with the ball on Pokemon Go, you can open the ball and see the Pokemon you just captured interacting with you.
-
-Why:
-The way and medium of how we are interacting with the world and others have been shifted dramatically from pure physical objects to a digital field which often includes a lot of screens, sometimes distracting people from the real world. IoT could be a great approach to enrich our relation with physical objects, and allow us to enjoy the digital world while living fully and even being more aware of the physical world. This project is an exploration of above by creating a more tangible entertainment experience. 
